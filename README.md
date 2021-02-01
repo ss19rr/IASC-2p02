@@ -4,22 +4,22 @@ Welcome to my online portfolio for IASC 2p02!
 
 ## Interactive Study Guide 
 
-Explore my interactive study guide here! 
+Explore my interactive study guide [here](2p02-Interactive-Study_Guide.html)! 
 
 ## Interactive Genealogy 
 
-Explore my interactive genealogy here! 
+My interactive genealogy isn't ready yet! You will be able to explore it here when it is completed. 
 
 ## Speculative Fiction 
 
-### Title of the Story 
+### Story Title 
 
-Put the text of your story here 
+My story isn't ready yet! You will be able to read it here when it is completed. 
 
 ### Micro Essay 
 
-Put the text of the micro essay here 
+My micro essay isn't ready yet! You will be able to read it here when it is completed.  
 
 ## Interactive Timeline 
 
-Add interactive timeline here! 
+My interactive timeline isn't ready yet! You will be able to explore it here when it is completed. 
