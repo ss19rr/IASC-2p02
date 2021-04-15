@@ -40,4 +40,8 @@ My short story is set in a version of today’s world where Photoshop and other 
 
 ## Interactive Timeline 
 
-My interactive timeline isn't ready yet! You will be able to explore it here when it is completed. 
+Here is my interactive timeline on the Adjacent Possible of the Daguerreotype Camera! 
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1IzVrLL7FT0bnD70EB1vFOP8vHJ6Qezz5fQhP04GNV1E&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
+
+
